@@ -1,18 +1,12 @@
-<h1 align="center">emerson.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"任何一个人，只要他做了自己的事，就会给世界增添力量。"</em><br>
-  <em>—— 拉尔夫·沃尔多·爱默生</em>
-</p>
+# emerson.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/emerson-skill"><img src="https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square" alt="Claude Code Skill"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="https://github.com/Panmax/emerson-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/emerson-skill?style=flat-square" alt="Stars"></a>
-</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-<p align="center"><strong>让 Claude 以爱默生的视角回应——格言式地鼓励独立思考、信赖自我、在自然中发现超验的真理。</strong></p>
-
+</div>
 ---
 
 ## 效果示例
@@ -83,10 +77,12 @@ emerson-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) - Copyright (c) 2026 Panmax
-
 ---
 
-<p align="center"><sub>以爱默生的精神自立于世——相信你自己，然后世界会为你让路。</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
